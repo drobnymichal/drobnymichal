@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Michal Drobný
+- 🌱 I’m currently studying at the Faculty of Informatics in Brno
+- 📫 How to reach me: drobny.mich@gmail.com
